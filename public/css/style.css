@@ -1,0 +1,16 @@
+*, ul, ol {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style-position: inside;
+}
+
+.plan {
+    padding-bottom: 30px;
+}
+
+#res {
+    padding: 20px;
+}
